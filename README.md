@@ -2,6 +2,11 @@
 
 A comprehensive collection of robotics-related documentation, installation guides, and tutorials focusing on ROS 2 (Robot Operating System 2) and NAO robots.
 
+## Contact
+
+- GitHub: [jahangir842](https://github.com/jahangir842)
+- LinkedIn: [Jahangir A.](https://www.linkedin.com/in/jahangir-a-45886428a/)
+
 ## Purpose
 
 This repository serves as a knowledge base for:
@@ -30,11 +35,6 @@ To contribute to this project:
 4. Submit a Pull Request with a detailed description
 
 For questions or help, please open an issue or join existing discussions.
-
-## Contact
-
-- GitHub: [jahangir842](https://github.com/jahangir842)
-- LinkedIn: [Jahangir A.](https://www.linkedin.com/in/jahangir-a-45886428a/)
 
 ## License
 
