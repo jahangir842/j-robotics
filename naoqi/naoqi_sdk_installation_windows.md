@@ -43,8 +43,14 @@ Add the SDK’s `lib` directory to your system’s `PATH` environment variable t
 
 1. Right-click **“This PC”** and select **Properties**.  
 2. Click **Advanced system settings** > **Environment Variables**.  
-3. Under **“System variables,”** find **Path**, click **Edit**, and add the path to the SDK’s lib folder (e.g., `C:\NAOqiSDK\lib`).  
+3. Under **“System variables,”** find or create **PYTHONPATH**, click **Edit**, and add the path to the SDK’s lib folder (e.g., `C:\NAOqiSDK\lib`).  
 4. Click **OK** to save changes.
+
+6. Or just Run this command to set the path
+
+```bash
+setx PYTHONPATH "%PYTHONPATH%;C:\NAOqiSDK\lib"
+```
 
 ---
 
